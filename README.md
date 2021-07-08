@@ -1,3 +1,4 @@
+<p align="center">Version: vietha.101</p>
 <p align="center"><img src="https://apexcharts.com/media/apexcharts-logo.png"></p>
 
 <p align="center">
